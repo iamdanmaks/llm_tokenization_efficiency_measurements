@@ -37,7 +37,7 @@ tokenizers_names = [
     "openai-community/gpt2",
     "malteos/gpt2-uk",
     "meta-llama/Llama-2-7b-chat-hf",
-    "mattshumer/Reflection-Llama-3.1-70B",
+    "meta-llama/Meta-Llama-3.1-8B",
     "mistralai/Mistral-7B-Instruct-v0.3",
     "mistralai/Mistral-Nemo-Instruct-2407",
     "google/gemma-7b-it",
