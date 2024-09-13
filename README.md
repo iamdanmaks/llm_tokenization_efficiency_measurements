@@ -21,3 +21,5 @@ Measurements are conducted on:
   - get_grammer_cases.py - generates word forms for each grammar case for all obtained words. If it is impossible to generate a grammar case for the word, it will be skipped
 
 Scripts require a `HF_TOKEN` environment variable to access models repositories on huggingface hub.
+
+For Ukrainian Brown corpus download folders `good`, `bad`, `so=so` from here: https://github.com/brown-uk/corpus/tree/master/data. Put them in `brown_corpus` subfolder in this repository to run measurements.
