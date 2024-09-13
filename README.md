@@ -19,3 +19,5 @@ Measurements are conducted on:
   - tokenizer_stats.py - measure the vocabulary size of tokenizers and count English and Cyrillic tokens in their vocabularies
   - fetch_words.py - fetches words from the Ukrainian online dictionary to generate multiple word forms later with PyMorphy2
   - get_grammer_cases.py - generates word forms for each grammar case for all obtained words. If it is impossible to generate a grammar case for the word, it will be skipped
+
+Scripts require a `HF_TOKEN` environment variable to access models repositories on huggingface hub.
